@@ -45,7 +45,8 @@ Bridge rectifier with filter:
 
 TABULAR COLUMN
 Rectifier without filter
-<img width="1280" height="318" alt="image" src="https://github.com/user-attachments/assets/c657a837-a7b0-4287-bfe1-44527022dd0d" />
+![WhatsApp Image 2025-12-25 at 1 43 48 PM](https://github.com/user-attachments/assets/0054febb-3729-4051-8e6e-c873a8e0ed72)
+
 
 TABULAR COLUMN
 Rectifier with filter
